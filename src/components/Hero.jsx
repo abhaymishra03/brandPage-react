@@ -23,8 +23,10 @@ const Hero = () => {
 
                 <span> Also Aailable On </span>
 
-                <img src="../public/images/flipkart.png" alt="flipkart" />
+               <section>
+                 <img src="../public/images/flipkart.png" alt="flipkart" />
                 <img src="../public/images/amazon.png" alt="amazon" />
+               </section>
 
             </div>
 
